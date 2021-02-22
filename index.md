@@ -9,18 +9,16 @@ I am studying software engineering at PNU shahriyar University.
 
 - First Name: behbaz
 - Last Name: bazyar
-- Birth Date: 1995
+- Birth Date: 1996/February/4
 - Marriage Status: Single
 
 ### Skills
 
-+ C
++ illustration
 
-+ C++
++ Photoshop
 
-+ HTML
-
-+ ICDL1
++ Graphics
 
 ### Languages
 
@@ -30,10 +28,10 @@ I am studying software engineering at PNU shahriyar University.
 
 ### Licenses & Certifications
 
-- ICDL1 
+- Graphics 
 
 ### Other Accounts
- -Gmail: bbazyar15@gmail.com
+- Gmail: bbazyar15@gmail.com
 
 - Quera Profile: <a href="">My Profile</a>
 
