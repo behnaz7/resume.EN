@@ -31,7 +31,7 @@ I am studying software engineering at PNU shahriyar University.
 - ICDL1 
 
 ### Other Accounts
--Gmail: bbazyar15@gmail.com
+ -Gmail: bbazyar15@gmail.com
 
 - Quera Profile: <a href="">My Profile</a>
 
