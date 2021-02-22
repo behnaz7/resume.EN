@@ -15,10 +15,9 @@ I am studying software engineering at PNU shahriyar University.
 ### Skills
 
 + illustration
-
 + Photoshop
-
 + Graphics
++ Visual Studio
 
 ### Languages
 
@@ -35,4 +34,4 @@ I am studying software engineering at PNU shahriyar University.
 
 - Quera Profile: <a href="">My Profile</a>
 
-  Persian Resume: <a href=""> Resume </a>
+  Persian Resume: <a href="https://behnaz7.github.io/resume.FA/"> Resume </a>
